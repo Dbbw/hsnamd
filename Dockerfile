@@ -1,0 +1,3 @@
+AUUID：用来部署节点的UUID，如有需要可在uuidgenerator生成
+CADDYIndexPage：伪装站首页文件
+ParameterSSENCYPT：ShadowSocks加密协议
